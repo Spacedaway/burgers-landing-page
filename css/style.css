@@ -19,6 +19,7 @@ body {
     url("../Image/Burgers Site/Background-1.png");
     background-size: cover;
     color: white;
+    font: 100;
 }
 
 .navbar-toggler-icon {
