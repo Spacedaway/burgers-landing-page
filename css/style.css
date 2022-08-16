@@ -16,7 +16,7 @@ body {
 .Hero-Bg {
     background-image: 
     linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, .2), rgba(0, 0, 0, .1), rgba(0, 0, 0, 0)),
-    url("../Image/Burgers Site/background-1.png");
+    url("../Image/Burgers Site/Background-1.png");
     background-size: cover;
     color: white;
 }
